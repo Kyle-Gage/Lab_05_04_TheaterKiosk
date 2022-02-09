@@ -10,7 +10,7 @@ public class Main
 	(Note that the program does nothing if they are not 21 or over…)
 	 */
 
-        int age = 15;
+        int age = 25;
 
         if (age >= 21)
         {
